@@ -1,6 +1,6 @@
 # 魔兽争霸中文小说合集
 
-这里搜集整理了**魔兽争霸**相关中文小说. 所有小说使用`restructuredText <http://docutils.sourceforge.net/rst.html>`_ 写成, 可以使用 `sphinx-doc <https://www.sphinx-doc.org/>`_ 编译为 HTML 或 PDF 等格式.
+这里搜集整理了**魔兽争霸**相关中文小说. 所有小说使用 [restructuredText](http://docutils.sourceforge.net/rst.html) 写成, 可以使用 [sphinx-doc](https://www.sphinx-doc.org/>) 编译为 HTML 或 PDF 等格式.
 
 ## 准备工作
 
