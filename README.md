@@ -14,7 +14,7 @@
 
 编译后的文件在 `source/_build/html` 中. 如:
 
-.. image:: built_html.png
+![](built_html.png)
 
 ## 编译为PDF
 
@@ -23,4 +23,4 @@
 
 编译后的文件在 `source/_build/latex/warcraft-books.pdf`. 如:
 
-.. image:: built_pdf.png
+![](built_pdf.png)
