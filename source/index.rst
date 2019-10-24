@@ -10,6 +10,7 @@
     :maxdepth: 2
     :caption: 目录
 
+    of_blood_and_honor/index
 
 参考
 
