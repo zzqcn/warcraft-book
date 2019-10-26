@@ -127,6 +127,7 @@ latex_elements = {
         \usepackage{xeCJK}
         \usepackage{hyperref}
         \setcounter{secnumdepth}{0}
+        \linespread{1.2}
     ''',
 
     # Latex figure (float) alignment
