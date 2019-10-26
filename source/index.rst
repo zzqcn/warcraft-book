@@ -12,6 +12,7 @@
 
     history/index
     of_blood_and_honor/index
+    day_of_the_dragon/index
 
 参考
 
